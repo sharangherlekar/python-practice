@@ -2,4 +2,7 @@
 
 x = int(input("Please enter a pin"))
 
-if x==
+if 1000<=x>=9999:
+    print("The pin is correct")
+else:
+    print("The pin is incorrect")
